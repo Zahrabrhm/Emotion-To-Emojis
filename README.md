@@ -29,9 +29,9 @@ This project combines face detection, emotion analysis, and real-time emoji gene
 
 ## Sample Results
 
-![Result 1](./Results/angry.png)
-![Result 2](./Results/fearful.png)
-![Result 3](./Results/Neutral.png)
-![Result 4](./Results/Surprised.png)
+<img src="./Results/angry.png" width="200" alt="Result 1">
+<img src="./Results/fearful.png" width="200" alt="Result 2">
+<img src="./Results/Neutral.png" width="200" alt="Result 3">
+<img src="./Results/Surprised.png" width="200" alt="Result 4">
 
 
